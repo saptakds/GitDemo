@@ -1,1 +1,2 @@
 "Welcome to version control" 
+"Ignore file added" 
